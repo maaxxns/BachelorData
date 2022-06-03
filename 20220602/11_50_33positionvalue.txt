@@ -1,0 +1,12 @@
+X 	 Y 	 R 	 theta 
+#Without Preamplifier,Finding peak value ,ZnTe detector angle dependance 40deg, Chopper 230Hz, time constant=0.3s 18dB, waiting time= 1s, sensitivity=20mVposition 11.01mm
+0.0	0.0	0.0	0.0
+0.0	-9.53682e-07	0.0	-90.0
+0.0	0.0	0.0	0.0
+0.0	0.0	0.0	45.0
+0.0	0.0	0.0	0.0
+-9.53682e-07	-9.53682e-07	0.0	180.0
+-9.53682e-07	0.0	0.0	180.0
+0.0	0.0	0.0	90.0
+0.0	0.0	0.0	90.0
+0.0	0.0	0.0	180.0
