@@ -1,0 +1,3 @@
+Time (s) 	 Position (mm) 	 Delay (s) 	 X 	 Y 	 R 	 theta 
+#Without Preamplifier,Fluence with Filter (NE02A-B), ZnTe detector angle 40deg, Chopper 230Hz, time constant=0.1s 18dB, waiting time= 0.9s, sensitivity=20mV
+1.6726	7.37	4.9167480999999997e-11	-5.24523e-05	-1.81199e-05	5.43597e-05	-153.438
