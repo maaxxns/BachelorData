@@ -1,0 +1,12 @@
+X 	 Y 	 R 	 theta 
+#With Preamplifier,Turning the emitter ZnTe, ZnTe detector angle dependance 40deg, Chopper inside probe 388Hz inside Pump 230Hz, time constant=0.1s 24dB, waiting time= 1s, sensitivity=20mV, position 4.5mm
+-3.81473e-06	-1.52589e-05	1.71663e-05	-119.25
+1.90736e-05	-2.28883e-05	2.47956e-05	-57.804
+-3.81472e-05	2.0981e-05	3.91009e-05	140.574
+1.81199e-05	1.33515e-05	2.3842e-05	17.928
+2.57493e-05	-1.81199e-05	3.33788e-05	-25.56
+4.7684e-06	-1.81199e-05	1.52589e-05	-93.576
+-9.5368e-06	-7.62945e-06	9.5368e-06	-116.562
+1.81199e-05	-5.6267e-05	5.81744e-05	-82.878
+3.05178e-05	-7.62945e-06	3.71935e-05	-0.954
+4.19619e-05	1.14442e-05	4.10082e-05	12.63

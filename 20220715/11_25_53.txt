@@ -1,0 +1,4 @@
+Time (s) 	 Position (mm) 	 Delay (s) 	 X 	 Y 	 R 	 theta 
+#Without Preamplifier,searching for the GaP signal, ZnTe detector angle 40deg, Chopper 230Hz, time constant=0.1s 24dB, waiting time= 1.0s, sensitivity=20mV
+1.9414	7.7	5.1369009999999997e-11	-1.62126e-05	0.0	1.23978e-05	158.196
+3.5845	7.704	5.1395695199999995e-11	1.43052e-05	0.0	9.5368e-06	-24.774

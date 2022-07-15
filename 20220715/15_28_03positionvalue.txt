@@ -1,0 +1,4 @@
+X 	 Y 	 R 	 theta 
+#With Preamplifier, Measure A, ZnTe detector angle dependance 40deg, Chopper inside probe 388Hz inside Pump 230Hz, time constant=0.1s 24dB, waiting time= 1s, sensitivity=20mV, position 4.5mm
+-4.86376e-05	-4.38693e-05	6.5804e-05	-137.802
+-4.48229e-05	-4.48229e-05	6.48503e-05	-137.88
